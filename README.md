@@ -1,50 +1,54 @@
-# Prompts de Inteligência Artificial (Lucas Fernandes)
+# 🤖 Prompts de Inteligência Artificial — Lucas Fernandes
 
-Este repositório contém meus prompts personalizados de inteligência artificial, criados para fins de estudo, produtividade, geração de conteúdo e aprendizado técnico.
-
-## 💡 Propósito
-
-Como aspirante a engenheiro DevOps, utilizo a IA para:
-
-- Criar assistentes especializados em temas técnicos (ex: Linux, Cloud, DevOps)
-- Acelerar meu aprendizado com simulações interativas
-- Automatizar tarefas criativas e de documentação
-- Criar jogos educativos baseados em RPG
+Este repositório contém meus prompts personalizados de inteligência artificial, criados para fins de **estudo técnico**, **produtividade**, **exploração criativa** e **simulação educacional**.
 
 ---
 
-## 🤖 Prompts incluídos  
+## 💡 Propósito
 
-| Prompt                | Descrição |
-|----------------------|-----------|
-| [professor-nuvem.md](./professor-nuvem.md) | Mestre de RPG educacional que ensina DevOps, Linux e redes em formato gamificado. Atua como mentor técnico fictício em jornadas de aprendizagem. |
-| [devops-senior.md](./devops-senior.md) | Inteligência artificial com personalidade do engenheiro DevOps Sênior. Especialista em solução de problemas, boas práticas e dúvidas complexas da área. |
-| [deus-do-gptes.md](./deus-do-gptes.md) | Cria e audita prompts otimizados para qualquer tipo de IA, com foco em estrutura, intenção e robustez de contexto. |
-| [visu.md](./visu.md) | Gera detalhes para criação de imagens em IAs como Midjourney e DALL·E, com ênfase em linguagem visual e estilos artísticos. |
-| [comandos/sebastiao.md](./comandos/sebastiao.md) | Assistente cotidiano com personalidade de “peão de obra”. Responde dúvidas práticas e simples do dia a dia com humor e clareza. |
-| [autoego.md](./autoego.md) | Alter ego filosófico-político usado para explorar ideias, discutir sistemas sociais e promover autoconhecimento por meio de debates estruturados. |
-| [escritor.md](./escritor.md) | Auxilia na escrita e estruturação de livros. Dá dicas editoriais, orienta na construção de narrativa e revisão de conteúdo. |
-| [cronos.md](./cronos.md) | Analisa conversas com IAs. Resume, critica e interpreta a qualidade, relevância e profundidade das respostas e interações. |
+Como aspirante a engenheiro DevOps, utilizo IAs de forma estratégica para:
+
+- Criar assistentes especializados em Linux, Cloud, DevOps e automação;
+- Simular aprendizado técnico via RPG;
+- Analisar e otimizar interações com outras IAs;
+- Automatizar produção de conteúdo, imagens e escrita criativa.
+
+---
+
+## 🤖 Prompts incluídos
+
+| Prompt | Descrição |
+|--------|-----------|
+| [professor-nuvem.md](./comandos/professor-nuvem.md) | Mestre de RPG educacional que ensina DevOps, Linux e redes em formato gamificado. Atua como mentor técnico fictício. |
+| [devops-senior.md](./comandos/devops-senior.md) | IA com perfil de engenheiro DevOps Sênior. Foco em boas práticas, troubleshooting e orientação técnica. |
+| [deus-do-gptes.md](./comandos/deus-do-gptes.md) | Criador de prompts avançados para outras IAs. Atua como arquiteto de estrutura, intenção e eficiência. |
+| [visu.md](./comandos/visu.md) | Gera descrições visuais e prompts para criação de imagens com IA, como Midjourney e DALL·E. |
+| [sebastiao.md](./comandos/sebastiao.md) | Assistente cotidiano com personalidade prática. Responde perguntas simples com tom humorístico e direto. |
+| [autoego.md](./comandos/autoego.md) | Entidade filosófico-política para debates estruturados e reflexão crítica. |
+| [escritor.md](./comandos/escritor.md) | Auxilia na organização de livros e revisões literárias. Atua como editor técnico. |
+| [cronos.md](./comandos/cronos.md) | Analisa interações com IAs: sumariza, classifica e avalia qualidade das sessões. |
 
 ---
 
 ## 🛠️ Como usar
 
 Cada arquivo `.md` contém:
+
 - O prompt completo
-- O objetivo da IA
-- Um exemplo de uso
-- Observações de uso pessoal
+- Objetivo e função da IA
+- Exemplo de uso real
+- Observações de aplicação no meu processo de estudo
 
 ---
 
-## 📌 Status
+## 📌 Estado do Repositório
 
-Este repositório está em constante expansão conforme desenvolvo novos assistentes e aplico IA em diferentes contextos de aprendizado.
+Este repositório está em constante evolução, com novas IAs sendo desenvolvidas conforme avanço no meu roadmap DevOps.
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn (em breve)]()
 - GitHub: [@DURKHEIM09](https://github.com/DURKHEIM09)
+- LinkedIn: [Lucas Fernandes](https://www.linkedin.com/in/lucasfernandes509)
+
