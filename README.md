@@ -1,17 +1,18 @@
 # 🤖 Prompts de Inteligência Artificial — Lucas Fernandes
 
-Este repositório contém meus prompts personalizados de inteligência artificial, criados para fins de **estudo técnico**, **produtividade**, **exploração criativa** e **simulação educacional**.
+> Um dos meus principais hobbies técnicos é estudar **como criar, estruturar e extrair o máximo das inteligências artificiais**.
+> 
+> Este repositório é um espaço dedicado à minha prática contínua de **programação e modelagem de IAs personalizadas**, com foco em:
+>
+> - Estrutura lógica de assistentes técnicos;
+> - Design de prompts como blocos modulares e reutilizáveis;
+> - Estratégias de autenticação, persistência e segurança;
+> - Evolução iterativa e prática de assistentes inteligentes;
+> - Aplicações reais em estudo técnico, produtividade e simulação.
 
----
+Acredito que a **IA é uma ferramenta poderosíssima**, mas seu real valor só aparece quando nos propomos a estudá-la a fundo. **Fazer perguntas simples, qualquer um pode. Mas saber perguntar com precisão e complexidade é o que transforma uma IA em um verdadeiro assistente técnico.**
 
-## 💡 Propósito
-
-Como aspirante a engenheiro DevOps, utilizo IAs de forma estratégica para:
-
-- Criar assistentes especializados em Linux, Cloud, DevOps e automação;
-- Simular aprendizado técnico via RPG;
-- Analisar e otimizar interações com outras IAs;
-- Automatizar produção de conteúdo, imagens e escrita criativa.
+Com isso em mente, todos os prompts aqui foram projetados com um único objetivo: **explorar o limite da utilização da IA como ferramenta de desenvolvimento individual profundo**, sempre buscando simular e extrair comportamentos complexos, especializados e aplicáveis a contextos reais de engenharia.
 
 ---
 
